@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: auto;
+    background-image: url(img2/fondo.png);
+    background-size: cover;
+}
+.caja{
+    background-color: rgba(250, 235, 215, 0);
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
