@@ -58,9 +58,45 @@ body{
   height: 2rem;
 }
 
-.reproductor{
-    display: flex;
+.caja{
     justify-content: center;
     align-items: center;
     object-fit: cover;
 }
+
+.row{
+    justify-content: center;
+    align-items: center;
+}
+
+.texto{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.parrafo{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.datos{
+    background-color: black;
+    color: aliceblue;
+    height: 14rem;
+    border-radius: 1px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    object-fit: cover;
+  }
+  .final{
+    background-color: black;
+    height: 2rem;
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    object-fit: cover;
+  }
